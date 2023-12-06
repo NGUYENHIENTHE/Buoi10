@@ -7,3 +7,6 @@ c:\users\administrator\documents\visual studio 2013\Projects\WindowsFormsApplica
 c:\users\administrator\documents\visual studio 2013\Projects\WindowsFormsApplication5\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.exe
 c:\users\administrator\documents\visual studio 2013\Projects\WindowsFormsApplication5\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.pdb
 c:\users\administrator\documents\visual studio 2013\Projects\WindowsFormsApplication5\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.Form1.resources
+E:\LuuDuLieuSinhVien\2001215767_NguyenTheHien_Buoi10\WindowsFormsApplication5\bin\Debug\WindowsFormsApplication5.exe.config
+E:\LuuDuLieuSinhVien\2001215767_NguyenTheHien_Buoi10\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.exe
+E:\LuuDuLieuSinhVien\2001215767_NguyenTheHien_Buoi10\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.pdb
